@@ -1,0 +1,12 @@
+{
+  "version": 2,
+  "dgSpecHash": "vQi/4Fm0E/+8v7LW0+HjOSs4a0kC9HggjuGFMB+m3n53BQ8i51IcF5objuQCDxJmdJ5JUVCEWZlkt6aY5O2enQ==",
+  "success": true,
+  "projectFilePath": "C:\\Users\\O&P-MainUser\\source\\repos\\ConsoleUBOTS\\ConsoleUBOTS\\ConsoleUBOTS.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\O&P-MainUser\\.nuget\\packages\\newtonsoft.json\\12.0.3\\newtonsoft.json.12.0.3.nupkg.sha512",
+    "C:\\Users\\O&P-MainUser\\.nuget\\packages\\refit\\5.2.1\\refit.5.2.1.nupkg.sha512",
+    "C:\\Users\\O&P-MainUser\\.nuget\\packages\\system.text.json\\4.7.2\\system.text.json.4.7.2.nupkg.sha512"
+  ],
+  "logs": []
+}
